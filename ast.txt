@@ -1,0 +1,43 @@
+/////////////////////////////////////////////////////////////////////
+/// An example ast generated from the files test1.b and test2.b   ///
+/////////////////////////////////////////////////////////////////////
+Label: 35 
+   Label: 36 
+      Label: 0 Value: control
+      Label: 41 
+         Label: 0 Value: my_boi
+         Label: 42 
+            Label: 34 Value: Bob
+      Label: 41 
+         Label: 0 Value: mo
+         Label: 42 
+            Label: 1 Value: 0
+      Label: 38 
+         Label: 51 
+            Label: 42 
+               Label: 1 Value: 1
+            Label: 42 
+               Label: 1 Value: 1
+         Label: 30 
+            Label: 42 
+               Label: 0 Value: mo
+            Label: 42 
+               Label: 1 Value: 32
+   Label: 36 
+      Label: 0 Value: main
+      Label: 0 Value: argc
+      Label: 0 Value: argv
+      Label: 44 
+         Label: 42 
+            Label: 0 Value: printf
+         Label: 42 
+            Label: 34 Value: Hello world\n
+      Label: 40 
+         Label: 42 
+            Label: 1 Value: 0
+   Label: 36 
+      Label: 0 Value: funcy
+      Label: 41 
+         Label: 0 Value: a
+         Label: 42 
+            Label: 22 Value: 98
